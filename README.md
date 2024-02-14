@@ -29,7 +29,7 @@ Here are some highlights from my portfolio:
 - Bachelor of Science in Computer Science, San Francisco State University, Expected Graduation: 2025
 
 ## Contact Me 📧
-Feel free to reach out to me via email at [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).
 
 Thank you for visiting my GitHub repository! I am excited to continue learning and contributing to the world of technology. 🚀🌟
 
