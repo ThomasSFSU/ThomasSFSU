@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-Welcome to my GitHub repository! Here, you'll find a collection of projects and assignments that showcase my skills and interests as a Computer Science student. From algorithms and data structures to web development and machine learning, I'm passionate about exploring various aspects of technology and solving real-world problems. 🤖
+Welcome to my GitHub repository! Here, you'll find a collection of projects and assignments that showcase my skills and interests. From algorithms and data structures to web development and machine learning, I'm passionate about exploring various aspects of technology and solving real-world problems. 🤖
 
 ## About Me ℹ️
 I am a dedicated Computer Science student currently pursuing my degree at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am constantly seeking opportunities to expand my knowledge and apply my skills in innovative ways. 🎓
@@ -16,7 +16,7 @@ Here are some highlights from my portfolio:
 - **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻
 
 ### 3. Machine Learning 🤖
-- **Sentiment Analysis**: Built a sentiment analysis model using Natural Language Processing (NLP) techniques to analyze and classify text data from social media platforms. 📝
+- **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
 
 ## Skills 💡
 - Proficient in C, C++, Python, HTML, CSS, JavaScript
