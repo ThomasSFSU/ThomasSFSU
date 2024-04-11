@@ -3,7 +3,7 @@
 Welcome to my GitHub repository! Here, you'll find a collection of projects and assignments that showcase my skills and interests. From algorithms and data structures to web development and machine learning, I'm passionate about exploring various aspects of technology and solving real-world problems. 🤖
 
 ## About Me ℹ️
-I am a Computer Science student currently pursuing my degree at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am constantly seeking opportunities to expand my knowledge and apply my skills in innovative ways. 🎓
+I am a Computer Science student currently pursuing my degree at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am looking forward to working as a Software Engineer after graduation. 🎓
 
 ## Projects 🛠️
 Here are some highlights from my portfolio:
@@ -14,6 +14,7 @@ Here are some highlights from my portfolio:
 
 ### 2. Web Development 🌐
 - **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻
+- **Queen Factsheet**: Designed and created a website to share facts about Queen. 
 
 ### 3. Machine Learning 🤖
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
@@ -24,6 +25,7 @@ Here are some highlights from my portfolio:
 - Strong understanding of data structures and algorithms
 - Familiarity with database management systems like MySQL and MongoDB
 - Knowledge of machine learning concepts and libraries such as TensorFlow and scikit-learn
+- Skill at designing and implementing products developing projects from a simple vision to finished products
 
 ## Education 📚
 - Bachelor of Science in Computer Science, San Francisco State University, Expected Graduation: 2025
@@ -31,6 +33,6 @@ Here are some highlights from my portfolio:
 ## Contact Me 📧
 Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).
 
-Thank you for visiting my GitHub repository! I am excited to continue learning and contributing to the world of technology. 🚀🌟
+Thank you for visiting my GitHub repository! 🌟
 
 <!--- © 2024 Thomas Brock -- All Rights Reserved --->
