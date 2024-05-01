@@ -23,7 +23,7 @@ Here are some highlights from my portfolio:
 - Proficient in C, C++, Python, HTML, CSS, JavaScript
 - Experience with Git and version control
 - Strong understanding of data structures and algorithms
-- Familiarity with database management systems like MySQL and MongoDB
+- Familiarity with database management systems like SQLite and MongoDB
 - Knowledge of machine learning concepts and libraries such as TensorFlow and scikit-learn
 - Skill at designing and implementing products developing projects from a simple vision to finished products
 
