@@ -15,7 +15,7 @@ Here are some highlights from my portfolio:
 ### 2. Web Development 🌐
 - **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻
 - **Queen Factsheet**: Designed and created a website to share facts about Queen. 
-
+- **Ecommerce Web App**: Currently developing a fully functional web application using Node.js, Express.js, and SQLite3.
 ### 3. Machine Learning 💻
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
 
@@ -23,9 +23,12 @@ Here are some highlights from my portfolio:
 - Proficient in C, C++, Python, HTML, CSS, JavaScript
 - Experience with Git and version control
 - Strong understanding of data structures and algorithms
+- Able to implement object oriented solutions
+- Strong conceptual understanding of computer networks
+- Adept at deploying cloud computing server instances
 - Familiarity with database management systems like SQLite and MongoDB
-- Knowledge of machine learning concepts and libraries such as TensorFlow and scikit-learn
-- Skill at designing and implementing products developing projects from a simple vision to finished products
+- Knowledge of machine learning concepts and statistical modeling
+- Skilled at iterative development from a simple vision to finished products
 
 ## Education 📚
 - Bachelor of Science in Computer Science, San Francisco State University, Expected Graduation: 2025
