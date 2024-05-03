@@ -14,7 +14,7 @@ Here are some highlights from my portfolio:
 
 ### 2. Web Development 🌐
 - **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻
-- **Queen Factsheet**: Designed and created a website to share facts about Queen. View the finished repository [here.](https://github.com/ThomasSFSU/group-project-website).
+- [**Queen Factsheet**:](https://github.com/ThomasSFSU/group-project-website) Designed and created a website to share facts about Queen.
 - **Ecommerce Web App**: Currently developing a fully functional web application using Node.js, Express.js, and SQLite3.
 ### 3. Machine Learning 💻
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
