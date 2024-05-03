@@ -3,7 +3,7 @@
 Welcome to my GitHub repository! Here, you'll find a collection of projects and assignments that showcase my skills and interests. From algorithms and data structures to web development and machine learning, I'm passionate about exploring various aspects of technology and solving real-world problems.
 
 ## About Me ℹ️
-I am a Computer Science student currently pursuing my degree at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am looking forward to working as a Software Engineer after graduation. 🎓
+I am currently pursuing a degree in Computer Science at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am looking forward to working as a Software Engineer after graduation. 🎓
 
 ## Projects 🛠️
 Here are some highlights from my portfolio:
