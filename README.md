@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-Welcome to my GitHub repository! Here, you'll find a collection of projects and assignments that showcase my skills and interests. From algorithms and data structures to web development and machine learning, I'm passionate about exploring various aspects of technology and solving real-world problems.
+Welcome to my GitHub repository!
 
 ## About Me ℹ️
 I am currently pursuing a degree in Computer Science at San Francisco State University. With a strong foundation in programming languages like Javascript, Python, and C++, I am looking forward to working as a Software Engineer after graduation. 🎓
@@ -20,13 +20,13 @@ Here are some highlights from my portfolio:
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
 
 ## Skills 💡
-- Proficient in C, C++, Python, HTML, CSS, JavaScript
+- Proficient in C, C++, Java, Python, HTML, CSS, JavaScript
 - Experience with Git and version control
 - Strong understanding of data structures and algorithms
 - Able to implement object oriented solutions
 - Strong conceptual understanding of computer networks
 - Adept at deploying cloud computing server instances
-- Familiarity with database management systems like SQLite and MongoDB
+- Familiarity with relational databases (SQL)
 - Knowledge of machine learning concepts and statistical modeling
 - Skilled at iterative development from a simple vision to finished products
 
