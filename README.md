@@ -17,13 +17,13 @@ Here are some highlights from my portfolio:
 - [**BrightMind Platform**:](https://brightmind.live) Worked as team lead to develope a fully functional web application using React.js, Node.js, Express.js, and MySQL.
 - [**Queen Factsheet**:](https://github.com/ThomasSFSU/group-project-website) Designed and created a website to share facts about Queen.
 - [**Ecommerce Web App**:](https://github.com/ThomasSFSU/group-project-two) Currently developing a fully functional web application using Node.js, Express.js, and SQLite3.
-- 
+  
 ### 3. Machine Learning 💻
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
 - **Tour Guide**: Participated in a Hackathon and developed an AI-powered tour guide using LangGraph with a StreamLit.io frontend.
 
 ## Skills 💡
-- Proficient in C, C++, Java, Python, HTML, CSS, JavaScript
+- Proficient in C, C++, Java, Python, HTML, CSS, JavaScript, Swift
 - Experience with Git and version control
 - Strong understanding of data structures and algorithms
 - Able to implement object oriented solutions
@@ -35,7 +35,7 @@ Here are some highlights from my portfolio:
 - Experianced with leadership
 
 ## Education 📚
-- Bachelor of Science in Computer Science, San Francisco State University, Expected Graduation: 2025
+- Bachelor of Science in Computer Science, San Francisco State University, Expected Graduation: May 2025
 
 ## Contact Me 📧
 Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).
