@@ -8,15 +8,15 @@ I am currently pursuing a degree in Computer Science at San Francisco State Univ
 ## Projects 🛠️
 Here are some highlights from my portfolio:
 
-### 1. Data Structures and Algorithms 📊
-- **Efficent Solutions**: Implemented solutions to various computational challenges, demonstrating proficiency in algorithmic problem-solving. 🧠
-- **Algorithm Analysis**: Fluent in the runtimes and performance of different sorting algorithms like bubble sort, merge sort, and quicksort. 📈
+### 1. iOS Applications 📱
+- **Event Calendar**: Designed and implemented a fully functional iOS app using SwiftUI and several libraries. The app features music events in the Bay Area. The repository is private as the app is intended to be proprietary and monitized.
 
 ### 2. Web Development 🌐
 - **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻
 - [**BrightMind Platform**:](https://brightmind.live) Worked as team lead to develope a fully functional web application using React.js, Node.js, Express.js, and MySQL.
 - [**Queen Factsheet**:](https://github.com/ThomasSFSU/group-project-website) Designed and created a website to share facts about Queen.
 - [**Ecommerce Web App**:](https://github.com/ThomasSFSU/group-project-two) Currently developing a fully functional web application using Node.js, Express.js, and SQLite3.
+- **Servers**: Deployed Node.js servers to AWS EC2 using NGINX as a reverse-proxy. Engineered RESTful APIs over HTTP and HTTPS.
   
 ### 3. Machine Learning 💻
 - **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails. 📝
