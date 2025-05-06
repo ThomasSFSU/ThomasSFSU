@@ -1,6 +1,6 @@
-# My Portfolio 🚀  
+# Thomas's Portfolio ☕💻
 
-Welcome to my GitHub repository!  
+Welcome to my GitHub repository!
 
 ## About Me ℹ️  
 I am currently pursuing a degree in Computer Science at San Francisco State University. With a strong foundation in programming languages like JavaScript, Python, Java, and C/C++, I aspire to work as a Software Engineer after graduation. 🎓  
