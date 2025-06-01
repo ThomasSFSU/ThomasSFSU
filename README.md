@@ -3,7 +3,7 @@
 Welcome to my GitHub repository!
 
 ## About Me ℹ️  
-I am currently pursuing a degree in Computer Science at San Francisco State University. With a strong foundation in programming languages like JavaScript, Python, Java, and C/C++, I aspire to work as a Software Engineer after graduation. 🎓  
+I am recently earned my degree in Computer Science at San Francisco State University. With a strong foundation in programming languages including JavaScript, Python, Java, and C/C++, I am seeking a role as a Full-Stack Software Engineer. 🎓  
 
 ## Projects 🛠️  
 Here are some highlights from my portfolio:  
@@ -36,7 +36,7 @@ Here are some highlights from my portfolio:
 
 ## Education 📚  
 - **Bachelor of Science in Computer Science**  
-  San Francisco State University | Expected Graduation: May 2025  
+  San Francisco State University | Graduation: May 2025
 
 ## Contact Me 📧  
 Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).  
