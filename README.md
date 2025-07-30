@@ -10,7 +10,7 @@ Here are some highlights from my portfolio:
 - **Event Calendar**: Designed and implemented a fully functional iOS app using SwiftUI and various libraries. The app showcases music events in the Bay Area. The repository is private, as the app is intended to be proprietary and monetized.  
 
 ### 2. Web Development 🌐
-- **Personal Website**: Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻  
+- [**Personal Website**](https://www.thomasbrock.io): Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻  
 - [**BrightMind Platform**](https://brightmind.live): Led a team in developing a fully functional web application using React.js, Node.js, Express.js, and MySQL.  
 - [**Queen Factsheet**](https://github.com/ThomasSFSU/group-project-website): Designed and built a website to share facts about the band Queen.  
 - [**E-commerce Web App**](https://github.com/ThomasSFSU/group-project-two): Developed a fully functional e-commerce web application using Node.js, Express.js, and SQLite3.  
@@ -38,5 +38,6 @@ Here are some highlights from my portfolio:
 
 ## Contact Me 📧  
 Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).
+
 
 <!--- © 2025 Thomas Brock -- All Rights Reserved --->
