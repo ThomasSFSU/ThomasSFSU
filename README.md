@@ -11,7 +11,7 @@ Here are some highlights from my portfolio:
 
 ### 2. Web Development 🌐
 - [**Personal Website**](https://www.thomasbrock.io): Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻  
-- [**BrightMind Platform**](https://brightmind.live): Led a team in developing a fully functional web application using React.js, Node.js, Express.js, and MySQL.  
+- **BrightMind Platform**: Led a team in developing a fully functional web application using React.js, Node.js, Express.js, and MySQL.  
 - [**Queen Factsheet**](https://github.com/ThomasSFSU/group-project-website): Designed and built a website to share facts about the band Queen.  
 - [**E-commerce Web App**](https://github.com/ThomasSFSU/group-project-two): Developed a fully functional e-commerce web application using Node.js, Express.js, and SQLite3.  
 - **Servers**: Deployed Node.js servers to AWS EC2 using NGINX as a reverse proxy. Engineered RESTful APIs over HTTP and HTTPS.  
