@@ -8,7 +8,7 @@ I’m particularly interested in **technical cofounder opportunities, early-stag
 
 ---
 
-# 🚀 Selected Projects
+# Selected Projects
 
 ## Metka — Field Reporting Platform
 
