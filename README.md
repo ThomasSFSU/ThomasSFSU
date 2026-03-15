@@ -1,43 +1,180 @@
-# Thomas's Portfolio ☕💻
+# Thomas Brock ☕💻
 
-## About Me ℹ️  
-I am recently earned my degree in Computer Science at San Francisco State University. With a strong foundation in programming languages including JavaScript, Python, Java, and C/C++, I am seeking a role as a Full-Stack Software Engineer. 🎓
+Technical builder focused on turning ideas into **production software**.
 
-## Projects 🛠️  
-Here are some highlights from my portfolio:
+I develop full-stack systems, mobile applications, and cloud infrastructure. My work emphasizes **rapid product development**, clean architecture, and deploying real systems that people can use.
 
-### 1. iOS Applications 📱
-- **Event Calendar**: Designed and implemented a fully functional iOS app using SwiftUI and various libraries. The app showcases music events in the Bay Area. The repository is private, as the app is intended to be proprietary and monetized.  
+I’m particularly interested in **technical cofounder opportunities, early-stage startups, and independent development projects.**
 
-### 2. Web Development 🌐
-- [**Personal Website**](https://www.thomasbrock.io): Created a responsive website using HTML, CSS, and JavaScript to showcase my projects and provide information about my skills and experiences. 💻  
-- **BrightMind Platform**: Led a team in developing a fully functional web application using React.js, Node.js, Express.js, and MySQL.  
-- [**Queen Factsheet**](https://github.com/ThomasSFSU/group-project-website): Designed and built a website to share facts about the band Queen.  
-- [**E-commerce Web App**](https://github.com/ThomasSFSU/group-project-two): Developed a fully functional e-commerce web application using Node.js, Express.js, and SQLite3.  
-- **Servers**: Deployed Node.js servers to AWS EC2 using NGINX as a reverse proxy. Engineered RESTful APIs over HTTP and HTTPS.  
+---
 
-### 3. Machine Learning 💻
-- **Spam Filter**: Built a spam classifier model using regression techniques to analyze and filter emails.
-- **Tour Guide**: Participated in a hackathon and developed an AI-powered tour guide using LangGraph with a Streamlit.io frontend.  
+# 🚀 Selected Projects
 
-## Skills 💡
-- Proficient in C, C++, Java, Python, HTML, CSS, JavaScript, Swift
-- Experience with Git and version control  
-- Strong understanding of data structures and algorithms  
-- Able to implement object-oriented solutions  
-- Strong conceptual understanding of computer networks  
-- Adept at deploying cloud computing server instances  
-- Familiarity with relational databases  
-- Knowledge of machine learning concepts and statistical modeling  
-- Skilled in iterative development, from a simple vision to finished products  
-- Experienced in leadership  
+## Metka — Field Reporting Platform
 
-## Education 📚  
-- **Bachelor of Science in Computer Science**  
-  San Francisco State University | Graduation: May 2025
+[Metka](https://metka.promo/app)
 
-## Contact Me 📧  
-Feel free to reach out to me via email at tmolnarbrock@sfsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbrocksf/).
+Designed and shipped a multi-platform reporting application used by promotional teams to document real-world marketing activity.
 
+**Key Features**
 
-<!--- © 2025 Thomas Brock -- All Rights Reserved --->
+- Location-tagged photo uploads  
+- Real-time field reporting  
+- Secure authentication and role management  
+- Cloud-based backend APIs  
+
+**Stack**
+
+React Native  
+Node.js + Express  
+PostgreSQL  
+AWS
+
+This platform supports **live field operations**, where reliability and real-time reporting are essential.
+
+---
+
+## Bay Area Event Calendar (iOS)
+
+Private repository
+
+Developed a native iOS application using **SwiftUI** that aggregates Bay Area music events.
+
+**Highlights**
+
+- Native SwiftUI interface  
+- API-driven event data  
+- Optimized mobile UI/UX  
+- Designed for future monetization
+
+---
+
+## BrightMind — Tutor Matching Platform
+
+Capstone project where I led development of a **full-stack education platform** connecting university tutors with students.
+
+**Responsibilities**
+
+- Full-stack architecture  
+- Backend API design  
+- Database schema design  
+- Team coordination and development leadership  
+
+**Stack**
+
+React  
+Node.js  
+Express  
+MySQL
+
+---
+
+## Queen Factsheet Website
+
+[View Repository](https://github.com/ThomasSFSU/group-project-website)
+
+Designed and built a website sharing information and history about the band Queen.
+
+---
+
+## Cloud Infrastructure & Backend Systems
+
+I regularly design and deploy backend services and APIs.
+
+**Experience includes**
+
+- Node.js REST APIs over HTTPS  
+- AWS EC2 deployment  
+- NGINX reverse proxy configuration  
+- Database-backed services  
+- Secure cloud infrastructure
+
+These systems support **real applications rather than local prototypes.**
+
+---
+
+# 🤖 Machine Learning
+
+## Spam Detection Model
+
+Built a classifier that analyzes email content and predicts spam probability using regression techniques.
+
+Demonstrates experience with:
+
+- feature engineering  
+- statistical modeling  
+- machine learning workflows
+
+---
+
+## AI Tour Guide (Hackathon)
+
+Developed an experimental AI tour guide using:
+
+- LangGraph agent workflows  
+- Streamlit frontend  
+- LLM-driven interaction
+
+This project explored **agent orchestration and AI-driven user interfaces.**
+
+---
+
+# 🧠 Technical Skills
+
+**Languages**
+
+Python • JavaScript • Swift • C • C++ • Java
+
+**Full Stack**
+
+React • Node.js • Express • REST APIs • HTML • CSS
+
+**Mobile**
+
+SwiftUI • iOS development
+
+**Infrastructure**
+
+AWS • EC2 • NGINX • API deployment • cloud networking
+
+**Databases**
+
+PostgreSQL • MySQL • SQLite
+
+**Other**
+
+Git • data structures and algorithms • system design • machine learning fundamentals
+
+I also actively leverage **modern AI-assisted development workflows** to accelerate product development and prototyping.
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science — Computer Science**  
+San Francisco State University  
+Graduated May 2025
+
+---
+
+# 🌐 Links
+
+**Website**  
+[thomasbrock.io](https://www.thomasbrock.io)
+
+**LinkedIn**  
+[linkedin.com/in/thomasbrocksf](https://www.linkedin.com/in/thomasbrocksf)
+
+---
+
+# 🤝 Open To
+
+- Technical Cofounder Opportunities  
+- Early Stage Startups  
+- Independent Development Projects  
+
+If you're building something ambitious and need a **technical partner who can ship software**, feel free to reach out.
+
+---
+
+<!-- © 2026 Thomas Brock -->
