@@ -93,7 +93,7 @@ These systems support **real applications rather than local prototypes.**
 
 ---
 
-# 🤖 Machine Learning
+# Machine Learning
 
 ## Spam Detection Model
 
@@ -119,7 +119,7 @@ This project explored **agent orchestration and AI-driven user interfaces.**
 
 ---
 
-# 🧠 Technical Skills
+# Technical Skills
 
 **Languages**
 
