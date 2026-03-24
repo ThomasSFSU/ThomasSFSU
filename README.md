@@ -17,14 +17,12 @@ I’m particularly interested in **technical cofounder opportunities, early-stag
 Designed and shipped a multi-platform reporting application used by promotional teams to document real-world marketing activity.
 
 **Key Features**
-
 - Location-tagged photo uploads  
 - Real-time field reporting  
 - Secure authentication and role management  
 - Cloud-based backend APIs  
 
 **Stack**
-
 React Native  
 Node.js + Express  
 PostgreSQL  
@@ -41,7 +39,6 @@ Private repository
 Developed a native iOS application using **SwiftUI** that aggregates Bay Area music events.
 
 **Highlights**
-
 - Native SwiftUI interface  
 - API-driven event data  
 - Optimized mobile UI/UX  
@@ -54,14 +51,12 @@ Developed a native iOS application using **SwiftUI** that aggregates Bay Area mu
 Capstone project where I led development of a **full-stack education platform** connecting university tutors with students.
 
 **Responsibilities**
-
 - Full-stack architecture  
 - Backend API design  
 - Database schema design  
 - Team coordination and development leadership  
 
 **Stack**
-
 React  
 Node.js  
 Express  
@@ -82,7 +77,6 @@ Designed and built a website sharing information and history about the band Quee
 I regularly design and deploy backend services and APIs.
 
 **Experience includes**
-
 - Node.js REST APIs over HTTPS  
 - AWS EC2 deployment  
 - NGINX reverse proxy configuration  
@@ -100,7 +94,6 @@ These systems support **real applications rather than local prototypes.**
 Built a classifier that analyzes email content and predicts spam probability using regression techniques.
 
 Demonstrates experience with:
-
 - feature engineering  
 - statistical modeling  
 - machine learning workflows
@@ -110,7 +103,6 @@ Demonstrates experience with:
 ## AI Tour Guide (Hackathon)
 
 Developed an experimental AI tour guide using:
-
 - LangGraph agent workflows  
 - Streamlit frontend  
 - LLM-driven interaction
@@ -139,7 +131,7 @@ AWS • EC2 • NGINX • API deployment • cloud networking
 
 **Databases**
 
-PostgreSQL • MySQL • SQLite
+PostgreSQL • MySQL • SQLite • MongoDB
 
 **Other**
 
